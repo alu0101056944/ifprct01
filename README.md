@@ -26,7 +26,7 @@ Las siguientes etiquetas fueron agregadas:
 - Terrain
 
 
-Un objeto vacío GlobalScripts contiene el script encargado de logear a consola los objetos que usados que contienen una etiqueta (Los que no tienen etiqueta son hijos de otros objetos).
+Un objeto vacío GlobalScripts contiene el script encargado de logear a consola los objetos usados que contienen una etiqueta (Los que no tienen etiqueta son hijos de otros objetos).
 
 
 ### Paquetes Utilizados
