@@ -7,7 +7,7 @@ Marcos Jesús Barrios Lorenzo (alu0101056944)
 ### Trabajo realizado
 
 
-Se agregó un terreno con texturas, árboles y arbustos de los siguientes paquetes gratuitos de la asset store. Un controlador en primera persona permite navegar el terreno. Tras agregar un cubo como referencia para el atajo Ctr+F, se comenzó a diseñar el punto de interés en el terreno.
+Se agregó un terreno con texturas, árboles y arbustos usando paquetes de la asset store. Un controlador en primera persona permite navegar el terreno. Tras agregar un cubo como referencia para el atajo Ctr+F, se comenzó a diseñar el punto de interés en el terreno.
 
 
 Se agregaron cuatro modelos 3D de piedras, descargados de la asset store. Uno de ellos compuesto por dos modelos a su vez. Se descargó el modelo 3D de una casa abandonada, a la cual se le agregó una malla de colisión para simular las paredes. El interior de la casa es adornado con un taburete en el centro con una fuente de luz naranja a modo de foco. Para complementar el foco, la intensidad del sol fue reducida, simulando una hora del día más avanzada.
